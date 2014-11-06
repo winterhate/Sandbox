@@ -7,7 +7,7 @@ import java.util.Set;
 public class Main {
 
     static class Mutable {
-        int state = 0;
+        int state = 3333;
 
         @Override
         public boolean equals(Object o) {
