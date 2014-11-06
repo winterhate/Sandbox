@@ -41,7 +41,7 @@ public class Main {
         final Mutable mutable = new Mutable();
         map.put(mutable, "item");
 
-        mutable.state = 1;
+//        mutable.state = 1;
 
         System.out.println(map.get(mutable));
 
